@@ -13,7 +13,6 @@ A mini Airbnb-style web app clone built using Node.js, Express, EJS, and Tailwin
 | Architecture | MVC (Model-View-Controller)       |
 | Storage      | JSON files (File System-based)    |
 
-
 ---
 
 ## 🚀 Features
@@ -24,4 +23,21 @@ A mini Airbnb-style web app clone built using Node.js, Express, EJS, and Tailwin
 - 🧩 Uses EJS partials for layout (header, favourite, nav bar)
 - 💼 Structured using MVC design pattern
 - 📃 <strong>No database required — beginner-friendly!</strong>
+
+---
+
+## To Run
+- npm start
+
+---
+
+## 🔧 Setup Instructions
+
+### 1. Clone the repo
+```bash
+git clone https://github.com/your-username/airbnb-clone.git
+cd airbnb-clone
+
+---
+
 
