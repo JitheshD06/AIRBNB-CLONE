@@ -26,7 +26,7 @@ A mini Airbnb-style web app clone built using Node.js, Express, EJS, and Tailwin
 
 ---
 
-## To Run
+## 🔧 To Run
 - npm start
 
 ---
